@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Core backend
+fastapi
+uvicorn
+pydantic
+
+# Frontend
+streamlit
+requests
+
+# ML / analysis
+scikit-learn
+pandas
+
+# Session utils
+python-dotenv
+
+# Optional (for simulation/demo/testing)
+rich
+httpx
+
+# Development
+watchdog
+
