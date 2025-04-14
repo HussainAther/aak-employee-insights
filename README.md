@@ -1,6 +1,3 @@
-### 📄 `README.md`
-
-```markdown
 # 🧠 AAK Employee Insights Engine
 
 A full-stack behavioral intelligence pipeline powering AAK Telescience and Alter Learning's next-generation scientific and educational platforms.
